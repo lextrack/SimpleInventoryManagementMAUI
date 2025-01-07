@@ -27,7 +27,7 @@
                        FontSize="18"
                        FontAttributes="Bold"/>
 
-                <Label Text="v1.0.3"
+                <Label Text="v1.0.4"
                        TextColor="#CCCCCC"
                        FontSize="14"/>
 
