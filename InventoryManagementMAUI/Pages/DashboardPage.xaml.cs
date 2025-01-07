@@ -30,6 +30,10 @@ namespace InventoryManagementMAUI.Pages
             topProductsList.ItemsSource = _topProducts;
         }
 
+        public bool IsNotBusy
+        {
+            get => !IsBusy;
+        }
         protected override void OnAppearing()
         {
             base.OnAppearing();

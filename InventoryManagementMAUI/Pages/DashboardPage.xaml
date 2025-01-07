@@ -13,7 +13,7 @@
                           Color="#228B22"/>
 
         <!-- Main Content -->
-        <ScrollView IsVisible="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=!IsBusy}">
+        <ScrollView IsVisible="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=IsNotBusy}">
             <VerticalStackLayout Padding="20" Spacing="20">
                 <!-- Summary Cards -->
                 <Grid ColumnDefinitions="*,*" RowDefinitions="Auto,Auto" ColumnSpacing="15" RowSpacing="15">
