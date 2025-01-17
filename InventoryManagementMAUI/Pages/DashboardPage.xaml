@@ -15,9 +15,7 @@
         <!-- Main Content -->
         <ScrollView IsVisible="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=IsNotBusy}">
             <VerticalStackLayout Padding="20" Spacing="20">
-                <!-- Summary Cards -->
                 <Grid ColumnDefinitions="*,*" RowDefinitions="Auto,Auto" ColumnSpacing="15" RowSpacing="15">
-                    <!-- Total Products -->
                     <Frame Grid.Column="0" Grid.Row="0"
                            BackgroundColor="{AppThemeBinding Light=#4CAF50, Dark=#1B5E20}"
                            Padding="15">
