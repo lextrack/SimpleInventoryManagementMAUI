@@ -5,6 +5,7 @@ Effortlessly manage your inventory, track incoming and outgoing products, view d
 
 <h2 align="center">Instructions for Windows</h2>
 <p align="left">
+  
 - Extract the contents somewhere, in Documents or C:/ is a good idea. Never extract the folder to C:/Program Files (x86) or any other system folder.
 - Install Microsoft Windows Desktop Runtime 8.0.12 (x64) (if it is not installed on your system, running the application exe will take you to the website for download and installation).
 - Inside the folder, find the executable InventoryManagementMAUI.exe to use the application.
@@ -17,7 +18,7 @@ Effortlessly manage your inventory, track incoming and outgoing products, view d
 <img src="./InventoryManagementMAUI/Captures/3.png">
 <img src="./InventoryManagementMAUI/Captures/4.png">
 
-<h2 align="center">Download</h2>
+<h2 align="center">Download for Android</h2>
 <p align="left">
 
 [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lextrack.inventorymanagementmaui)
